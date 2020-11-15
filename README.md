@@ -8,7 +8,6 @@
 - 🥅 My goal for this year is to finish a project and to learn fully c++ and swift if possible (2020)
 
 ### 📎 You can connnect with me here:
-- [Youtube]
 - My discord server is currently private but you can maybe get in somehow.
 - Aleexander#1337 is my discord tag. <
 
