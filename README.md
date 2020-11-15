@@ -1,16 +1,21 @@
 ### Hi there 👋
+### 👋 Hi, im Alexander Schuster, aka Aleexander. 👋
 
-<!--
-**ItsAleexander/ItsAleexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 I'm a student and im learning to develop!
+- ❓ I'm currently learning c++ and swift
+- ❔ I know a little bit of python 
+- 🍣 My favourite food is sushi
+- 🥅 My goal for this year is to finish a project and to learn fully c++ and swift if possible (2020)
 
-Here are some ideas to get you started:
+### 📎 You can connnect with me here:
+- [Youtube]
+- My discord server is currently private but you can maybe get in somehow.
+- Aleexander#1337 is my discord tag. <
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://komarev.com/ghpvc/?username=ItsAleexander&label=Profile%20views&color=0e75b6&style=flat" alt="Aleexander" /> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsAleexander&show_icons=true" alt="Aleexander" /></p>
+
