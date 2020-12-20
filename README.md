@@ -13,8 +13,8 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=ItsAleexander&label=Profile%20views&color=0e75b6&style=flat" alt="Aleexander" /> </p>
+<img src="https://komarev.com/ghpvc/?username=0xSchwarzschild&label=Profile%20views&color=0e75b6&style=flat" alt="Aleexander" /> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsAleexander&show_icons=true" alt="Aleexander" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSchwarzschild&show_icons=true" alt="Aleexander" /></p>
 
