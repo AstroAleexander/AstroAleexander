@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👋 Hi, im Alexander Schuster, aka Aleexander. 👋
+### 👋 Hi, im Schwarzschild Alexander, aka 0xSchwarzschild. 👋
 
 ## 👨‍🎓 I'm a student and im learning to develop!
 - ❓ I'm currently learning c++ and swift
@@ -9,7 +9,7 @@
 
 ### 📎 You can connnect with me here:
 - My discord server is currently private but you can maybe get in somehow.
-- Aleexander#1337 is my discord tag. <
+- Schwarzschild#1337 is my discord tag. <
 
 
 
